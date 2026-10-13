@@ -1,0 +1,9 @@
+{
+  "name": "naval-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "grammy": "^1.30.0"
+  }
+}
